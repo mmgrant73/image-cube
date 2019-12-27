@@ -7,7 +7,7 @@ There is an image of it below.
 
 ![Alt text](/imgcube.png?raw=true "Image-Cube")
 
-[Click here for Demo](https://mmgrant73.github.io/)
+[Click here for Demo](https://mmgrant73.github.io/imagecube/imgcube.html)
 
 ### How to use it?
 It is quite easy to use it on your webpage. Just follow the below steps:
