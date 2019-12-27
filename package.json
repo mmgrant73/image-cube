@@ -1,6 +1,6 @@
 {
   "name": "img-cube",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A web component that is a container (cube) that holds an image.  When you hover over it the cube will flip to a text face that you can use as a descriptor for the image.  When the mouse is no longer hover over the cube it will flip back to the image",
   "main": "imgcube.js",
   "scripts": {
@@ -17,7 +17,7 @@
     "css"
   ],
   "author": "Matthew Grant",
-  "license": "MIT"
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mmgrant73/image-cube.git"
@@ -25,5 +25,5 @@
   "bugs": {
     "url": "https://github.com/mmgrant73/image-cube/issues"
   },
-  "homepage": "https://github.com/mmgrant73/image-cube#readme",
+  "homepage": "https://github.com/mmgrant73/image-cube#readme"
 }
