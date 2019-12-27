@@ -18,4 +18,12 @@
   ],
   "author": "Matthew Grant",
   "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmgrant73/image-cube.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mmgrant73/image-cube/issues"
+  },
+  "homepage": "https://github.com/mmgrant73/image-cube#readme",
 }
