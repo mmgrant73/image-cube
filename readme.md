@@ -5,7 +5,7 @@ Image-Cube is a custom web component that holds a thumbnail image.  When you hov
 to another face that has text describing the image.  Once your mouse is not hovering over the image it will roll back to the image.
 There is an image of it below.
 
-![Alt text](/image-cube.png?raw=true "Image-Cube")
+![Alt text](/imgcube.png?raw=true "Image-Cube")
 
 [Click here for Demo](https://mmgrant73.github.io/)
 
